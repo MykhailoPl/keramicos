@@ -2189,7 +2189,7 @@ footer.entry-meta {
 
 .iheader {
 	display: block;
-	height: 100px;
+	height: 60px;
 	width: 100%;
 	text-align: center;
 	background-color: #95C837;
@@ -2253,7 +2253,7 @@ footer.entry-meta {
 	display: block;
 	float: left;
 	font-size: 32px;
-	line-height: 100px;
+	line-height: 60px;
 	padding: 0px;
 	margin: 0px;
 	font-weight: 500;
