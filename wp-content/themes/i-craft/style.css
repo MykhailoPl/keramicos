@@ -112,8 +112,7 @@ button,
 input,
 select,
 textarea {
-	font-family: "Open Sans", Helvetica, sans-serif;
-	font-family: "Roboto", Helvetica, sans-serif;
+font-family: 'Gabriela', serif;
 	color : #575757;
 }
 
@@ -121,7 +120,7 @@ body {
 	color: #575757;
 	line-height: 1.8;
 	margin: 0;
-	font-family: "Open Sans", Helvetica, sans-serif;
+	font-family: 'Gabriela', serif;
 	font-size: 14px;
 }
 
@@ -155,7 +154,7 @@ h4,
 h5,
 h6 {
 	clear: both;
-	font-family: Roboto, Georgia, serif;
+	font-family: 'Gabriela', serif;
 	line-height: 1.3;
 }
 

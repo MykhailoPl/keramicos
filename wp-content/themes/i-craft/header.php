@@ -40,7 +40,7 @@ global $post;
     endif;    
     ?>    
     
-	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link href="https://fonts.googleapis.com/css?family=Gabriela" rel="stylesheet">
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>">
 	<?php wp_head(); ?>
 </head>
