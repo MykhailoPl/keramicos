@@ -1392,7 +1392,7 @@ ul.nav-container ul a:hover,
 	font-weight: 700;
 	padding: 6px 12px;
 	color: #FFF;
-	background-color: rgba(0,0,0,0.4);
+	background-color: rgba(0,0,0,0.7);
 	width: auto;
 	max-width: 50%;
 	margin-bottom: 12px;
@@ -1405,7 +1405,7 @@ ul.nav-container ul a:hover,
 
 .ibanner .da-slider p {
 	color: #FFF;
-	background-color: rgba(0,0,0,0.3);
+	background-color: rgba(0,0,0,0.5);
 	padding: 6px 12px;
 	width: auto;
 	max-width: 50%;
