@@ -5,3 +5,11 @@ MykhailoPl
 - Зробив статичною сторінку Вітрина (в налаштуваннях вкл. слайдер і відключив тайтл бар)
 - Інсталював TemplatesNext ToolKit
 - Добавив топ прожадів
+- woocommerce/templates/cart/cart-totals.php:
+  - 28 Загальна сума
+- /wp-content/languages/plugins/woocommerce-uk.po:
+  - 5004 було "Проміжний підсумок" змінив на Товари
+  -woocommerce/includes/shipping/legacy-local-pickup/class-wc-shipping-legacy-local-pickup.php
+    -97
+  -/woocommerce/includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:
+  73 і 24
