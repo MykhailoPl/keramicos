@@ -113,11 +113,14 @@ input,
 select,
 textarea {
 font-family: 'Gabriela', serif;
-	color : #575757;
+	/*color : #575757;*/
+	color : #374140;
+	
 }
 
 body {
-	color: #575757;
+	/*color: #575757;*/
+	color : #374140;
 	line-height: 1.8;
 	margin: 0;
 	font-family: 'Gabriela', serif;

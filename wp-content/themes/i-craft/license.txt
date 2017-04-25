@@ -13,3 +13,4 @@ MykhailoPl
     -97
   -/woocommerce/includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:
   73 і 24
+  git push
