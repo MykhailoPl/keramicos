@@ -14,3 +14,5 @@ MykhailoPl
   -/woocommerce/includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:
   73 і 24
   git push
+  - змінив коріл шрифта  123 117 1160 style.css
+  - /plugins/woocommerce/includes/wc-template-functions.php View cart на Переглянути (виринаюче вікно при наведенні на корзину - кнопка)

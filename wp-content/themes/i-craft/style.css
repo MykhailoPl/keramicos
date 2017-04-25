@@ -1156,7 +1156,8 @@ ul.nav-container ul li:first-child a,
 ul.nav-container ul a:hover,
 .nav-container ul ul a:hover {
 	background-color: #f4f4f4;
-	color: #474747;
+	/*color: #474747;*/
+	color:#0e0e0e;
 }
 
 .nav-container .current_page_item > a,
