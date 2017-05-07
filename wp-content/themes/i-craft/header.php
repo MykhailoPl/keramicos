@@ -57,7 +57,7 @@ global $post;
                 <div class="topphone">
                     <i class="topbarico genericon genericon-phone"></i>
                     <?php if ( $top_phone ) : ?>
-                        <?php _e('Call us : ','i-craft'); ?> <?php echo $top_phone; ?>
+                        <?php _e(''); ?> <?php echo $top_phone; ?>
                     <?php endif; ?>
                 </div>
                 <?php endif; ?>
@@ -66,7 +66,7 @@ global $post;
                 <div class="topphone">
                     <i class="topbarico genericon genericon-mail"></i>
                     <?php if ( $top_email ) : ?>
-                        <?php _e('Mail us : ','i-craft'); ?> <?php echo sanitize_email($top_email); ?>
+                        <?php _e(''); ?> <?php echo sanitize_email($top_email); ?>
                     <?php endif; ?>
                 </div>
                 <?php endif; ?>                
