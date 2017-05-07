@@ -6,7 +6,8 @@ function icraft_social_icons () {
 	
 	$socio_list = '';
 	$siciocount = 0;
-    $services = array ('facebook','twitter','youtube','flickr','feed','instagram','googleplus');
+   // $services = array ('facebook','twitter','youtube','flickr','feed','instagram','googleplus');
+   $services = array ('facebook','instagram','pinterest');
     
 		$socio_list .= '<ul class="social">';	
 		foreach ( $services as $service ) :
