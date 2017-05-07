@@ -6,21 +6,22 @@ MykhailoPl
 - Інсталював TemplatesNext ToolKit
 - Добавив топ прожадів
 - woocommerce/templates/cart/cart-totals.php:
-  - 28 Загальна сума
+   28 Загальна сума
 - /wp-content/languages/plugins/woocommerce-uk.po:
-  - 5004 було "Проміжний підсумок" змінив на Товари
-  -woocommerce/includes/shipping/legacy-local-pickup/class-wc-shipping-legacy-local-pickup.php
+   5004 було "Проміжний підсумок" змінив на Товари
+-woocommerce/includes/shipping/legacy-local-pickup/class-wc-shipping-legacy-local-pickup.php
     -97
-  -/woocommerce/includes/shipping/local-pickup/class-wc-shipping-local-pickup.php:
-  73 і 24
+-/woocommerce/includes/shipping/local-pickup/class-wc-shipping-local-pickup.php: 73 і 24
   git push
-  - змінив коріл шрифта  123 117 1160 style.css
+- змінив коріл шрифта  123 117 1160 style.css
    commit - change kolor fonts
-  - /plugins/woocommerce/includes/wc-template-functions.php View cart на Переглянути (виринаюче вікно при наведенні на корзину - кнопка)
+- /plugins/woocommerce/includes/wc-template-functions.php View cart на Переглянути (виринаюче вікно при наведенні на корзину - кнопка)
    commit fixed mini cart
    
-   Style.css - посунув випадаючу міні карту / фокус навколо іконки корзини
-   - 4066 було 0 слало -20px
-   - 4036 добавив 	width: 42px а 4037 змінив на 10
-   - Таблиця загальна сума, підпис поля з сумою вартості товарів 33 kart-totals.php 	<th><?php _e( 'Сума товарів', 'woocommerce' ); ?></th>
-   - Слово SHIPPING в таблиці "загальна сума" виводиться з cart-shipping.php 25 <th><?php echo wp_kses_post( 'Доставка' ); ?></th> було $package_name 
+-Style.css - посунув випадаючу міні карту / фокус навколо іконки корзини
+    4066 було 0 слало -20px
+    4036 добавив 	width: 42px а 4037 змінив на 10
+- Таблиця загальна сума, підпис поля з сумою вартості товарів 33 kart-totals.php 	<th><?php _e( 'Сума товарів', 'woocommerce' ); ?></th>
+- Слово SHIPPING в таблиці "загальна сума" виводиться з cart-shipping.php 25 <th><?php echo wp_kses_post( 'Доставка' ); ?></th> було $package_name 
+- Видалив зайві поля з форми оформлення замовлення (опис тут https://www.templatemonster.com/help/ru/woocommerce-how-to-remove-checkout-fields.html#prettyPhoto)
+       файл themes/i-craft/inc/custom-functions.php
